@@ -49,6 +49,27 @@
         }
       ],
       "uuid": "99d20a45-4763-4aa2-84d6-531e99283498"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New annotation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        }
+      ],
+      "uuid": "dd2ce1f3-c5bb-4e0e-8b94-d5ebb0154f73"
     }
   ],
   "set": "Default",
